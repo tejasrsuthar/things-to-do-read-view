@@ -16,6 +16,7 @@
   - [ ] **Check Node.JS tools**
     - [ ] [Node Awesome](https://github.com/sindresorhus/awesome-nodejs)
   - [ ] **Read Articles**
+    - [ ] [Seralizing data efficiently with apache avro and dealing with schema registry](https://www.sderosiaux.com/articles/2017/03/02/serializing-data-efficiently-with-apache-avro-and-dealing-with-a-schema-registry/)
     - [ ] [Understanding restful api using nodejs and typescript](https://blog.bitsrc.io/understanding-a-restful-api-using-node-js-and-typescript-6f9cede6b579)
     - [ ] [Top 50 articles for Node.JS](https://medium.mybridge.co/learn-node-js-from-top-50-articles-for-the-past-year-v-2019-2ec0a6a2cfa2)
     - [ ] [Serverless CMS](https://hackernoon.com/building-webiny-a-serverless-cms-51bde9b5b3bf)
