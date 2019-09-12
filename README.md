@@ -1,14 +1,12 @@
 # List of things that needs to be completed in year 2019
 
 #### Year 2019
-- [ ] **Complete the certification: AWS Certified Developer Associate**
-  - [ ] **Course review**
-    - [ ] [Aws certified developer associate - Udemy](https://www.udemy.com/aws-certified-developer-associate-dva-c01/)
-  - [ ] **Read Articles**
-    - [ ] [Certification Preparation AWS](https://aws.amazon.com/certification/certification-prep/)
-    - [ ] [The value of certifications](https://read.acloud.guru/the-value-of-an-aws-certification-b326779c9679)
-    - [ ] [Certification Competence Correlation](https://martinfowler.com/bliki/CertificationCompetenceCorrelation.html)
-    - [ ] [We hire real aws architects ](https://medium.com/linux-academy/we-hire-real-aws-solutions-architects-not-paper-certified-ones-e17bd28ba487)
+**Complete the certification: AWS Certified Developer Associate**
+  - [x] [Aws certified developer associate - Udemy](https://www.udemy.com/aws-certified-developer-associate-dva-c01/)
+  - [x] [Certification Preparation AWS](https://aws.amazon.com/certification/certification-prep/)
+  - [x] [The value of certifications](https://read.acloud.guru/the-value-of-an-aws-certification-b326779c9679)
+  - [x] [Certification Competence Correlation](https://martinfowler.com/bliki/CertificationCompetenceCorrelation.html)
+  - [x] [We hire real aws architects ](https://medium.com/linux-academy/we-hire-real-aws-solutions-architects-not-paper-certified-ones-e17bd28ba487)
  
 - [ ] **Master the Node Development**
   - [ ] **Course Review**
